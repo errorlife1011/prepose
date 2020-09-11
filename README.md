@@ -1,0 +1,1 @@
+Simple star pattern pragram .
